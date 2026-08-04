@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"20a4675250efecbd","type":"text","text":" ### День В (акцент на плечі та силу)\n1. Жим сидячи\n2. Згинання бицепса кривим хватом\n3. Жим лежачи вузьким хватом(Трицепс)\n4. Розведення гантелей  в сторони.(Середня дельта)\n5. Розведення рук під нахилом(Задня дельта)\n6. Згинання бицепса прямим хватом\n   \n7. Віджимання на брусах — 3×8-12\n8. Підтягування \n9. Прес — 3 підходи","x":200,"y":5,"width":280,"height":415},
+		{"id":"d9a63c7286cdc24f","type":"text","text":"Розклад тренувань","x":-120,"y":-240,"width":250,"height":60},
+		{"id":"ee0525807f721aac","type":"file","file":"Розминочні.mp4","x":-107,"y":-800,"width":225,"height":400},
+		{"id":"b0d1c31e8a0fb99a","type":"text","text":"### День А (акцент на ноги і плечі)\n\n1. Жим сидячи — 3×10\n2. Розведення гантелей  в сторони— 3×10\n3. Розведення рук під нахилом— 3×10\n4. Присідання зі штангою —3+1\n5. Жим ногами — 3+1\n6. Руминська тяга— 3+1\n7. Випади — 3+1\n8. Ікри — 3+1\n9. Прес — 3 підходи","x":-600,"y":5,"width":340,"height":415},
+		{"id":"1533e91d88b3d6b9","type":"file","file":"Віджимання на брусях.mp4","x":945,"y":5,"width":264,"height":400},
+		{"id":"4a9ea6b8850af231","type":"text","text":"Пн-**А** Ср-**Б** Пт-**В**","x":-130,"y":-120,"width":250,"height":60},
+		{"id":"b7c6c6803d5d9347","type":"file","file":"Жим гантелей сидячи.mp4","x":600,"y":-680,"width":225,"height":400},
+		{"id":"33a4ba71dcfe535e","type":"file","file":"Жим лежачи.mp4","x":965,"y":-480,"width":225,"height":400},
+		{"id":"0751f205cb24e215","type":"file","file":"Присідання зі штангою.mp4","x":-1320,"y":640,"width":225,"height":400},
+		{"id":"eea29fee08260542","type":"file","file":"Розведення гантелей в сторони.mp4","x":340,"y":1240,"width":400,"height":400},
+		{"id":"80a5b3fd4dbfa430","type":"file","file":"Жим сидячи.mp4","x":-655,"y":1240,"width":225,"height":400},
+		{"id":"1ee2669e9274f36f","type":"file","file":"Розведення рук під нахилом.mp4","x":-164,"y":1219,"width":225,"height":400},
+		{"id":"d772e43304d456bc","type":"text","text":"### День Б (акцент на грудь і спину та плечі)\n\n1. Жим сидячи — 3×10\n2. Тяга нижнього блока — 3×10 Тяга верхнього блоку широким хватом— 3×10 або Підтягування широким хватом — 3×10\n3. Жим лежачи\n4. Розведення гантелей  в сторони— 3×10\n5. Розведення рук під нахилом— 3×10\n6. Жим гантелей під кутом — 3×10\n7. Тяга штанги в нахилі — 3×10\n8. Прес — 3×20\n","x":-164,"y":5,"width":330,"height":455}
+	],
+	"edges":[
+		{"id":"570fca235c5a1463","fromNode":"d9a63c7286cdc24f","fromSide":"bottom","toNode":"4a9ea6b8850af231","toSide":"top"},
+		{"id":"efb04287250f949e","fromNode":"4a9ea6b8850af231","fromSide":"left","toNode":"b0d1c31e8a0fb99a","toSide":"top"},
+		{"id":"31ab862119ed5d53","fromNode":"4a9ea6b8850af231","fromSide":"bottom","toNode":"d772e43304d456bc","toSide":"top"},
+		{"id":"9a6503cef54195d9","fromNode":"4a9ea6b8850af231","fromSide":"right","toNode":"20a4675250efecbd","toSide":"top"},
+		{"id":"9550f97359609bf7","fromNode":"b0d1c31e8a0fb99a","fromSide":"left","toNode":"0751f205cb24e215","toSide":"right"},
+		{"id":"f26f764f4ce58a7f","fromNode":"20a4675250efecbd","fromSide":"right","toNode":"b7c6c6803d5d9347","toSide":"left"},
+		{"id":"6428379db666b117","fromNode":"20a4675250efecbd","fromSide":"right","toNode":"1533e91d88b3d6b9","toSide":"left"},
+		{"id":"7f4cd3ee31e18fcd","fromNode":"33a4ba71dcfe535e","fromSide":"left","toNode":"20a4675250efecbd","toSide":"right"},
+		{"id":"cb6d1ac6b6be3ac8","fromNode":"eea29fee08260542","fromSide":"top","toNode":"20a4675250efecbd","toSide":"right"},
+		{"id":"7be10821930baade","fromNode":"eea29fee08260542","fromSide":"top","toNode":"b0d1c31e8a0fb99a","toSide":"left"},
+		{"id":"fe504b41ee43eb21","fromNode":"80a5b3fd4dbfa430","fromSide":"top","toNode":"b0d1c31e8a0fb99a","toSide":"left"},
+		{"id":"14738956a1e4c504","fromNode":"80a5b3fd4dbfa430","fromSide":"top","toNode":"20a4675250efecbd","toSide":"right"},
+		{"id":"5f5b38d9f7b997be","fromNode":"80a5b3fd4dbfa430","fromSide":"top","toNode":"d772e43304d456bc","toSide":"bottom"},
+		{"id":"09cee6e5e7478a34","fromNode":"1ee2669e9274f36f","fromSide":"top","toNode":"d772e43304d456bc","toSide":"bottom"},
+		{"id":"276c9c21d3b4aa0f","fromNode":"1ee2669e9274f36f","fromSide":"top","toNode":"b0d1c31e8a0fb99a","toSide":"left"},
+		{"id":"afc5ea0a939550c2","fromNode":"1ee2669e9274f36f","fromSide":"top","toNode":"20a4675250efecbd","toSide":"right"}
+	]
+}

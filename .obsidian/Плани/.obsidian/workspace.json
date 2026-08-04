@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "83425c586351ab69",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a0b5213fa62cbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c35d78817dab1edd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Тренування.canvas",
+                "viewState": {
+                  "x": 499.2869073940174,
+                  "y": 199.07813122222723,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Тренування"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7e9cb7b429baee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "60482b0c6d076018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d44e0d16b1010d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "1acc0b3211b1e71e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "4cf05ef3879d4f2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4940f495d80d7ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ece3cffa21562b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fbafb7814b5cf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без назви.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання для Без назви"
+            }
+          },
+          {
+            "id": "d2d28385770bbc85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без назви.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання з Без назви"
+            }
+          },
+          {
+            "id": "7c0253524c98a1c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "5b5b64784b1f5977",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "4c7a5aaf81e50adf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без назви.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст Без назви"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false
+    }
+  },
+  "active": "c35d78817dab1edd",
+  "lastOpenFiles": [
+    "Розведення рук під нахилом.mp4",
+    "Розведення гантелей в сторони.mp4",
+    "Без назви.md",
+    "Разведения рук с гантелями стоя в наклоне (задние дельты).mp4",
+    "Тренування.canvas",
+    "Жим сидячи.mp4",
+    "Жим лежачи.mp4",
+    "Download 2.mp4",
+    "Download 1.mp4",
+    "Download 3.mp4",
+    "Жим сидячи.md",
+    "Присідання зі штангою.mp4",
+    "Віджимання на брусях.mp4",
+    "Без назви 1.md",
+    "Вітаємо.md",
+    "Без назви 1.canvas",
+    "Без назви 2.canvas",
+    "2026-05-31.md",
+    "Без назви 3.canvas",
+    "2026-05-30.md"
+  ]
+}
